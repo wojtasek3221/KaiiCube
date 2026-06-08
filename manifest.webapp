@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "name": "KaiiCube",
+  "description": "ClassiCube client for Kaios devices",
+  "launch_path": "/index.html",
+  "icons": {
+    "56": "/static/icon-56.png",
+    "128": "/static/icon-128.png"
+  },
+  "developer": {
+    "name": "wojtasek3221",
+    "url": "https://github.com/Al3x77777/ClassiCube-HTML"
+  },
+  "type": "web",
+  "fullscreen": "true",
+  "orientation": ["landscape-primary"],
+  "cursor": false,
+  "categories": ["games"]
+}
